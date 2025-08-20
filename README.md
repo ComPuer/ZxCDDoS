@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v1.4 - Free DDoS Panel 🚀
+# 🚀 ZxCDDoS: Release v1.4 - DDoS Panel 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -21,7 +21,7 @@
  
  ## Logs</br>
  - NEW OVH-BEAM METHODS!
- - Hi all, there are fools scam tool github for 20usd
+ - Hi all, there are fools scam tool github for 2000usd
 - Image scammer:
 https://i.ibb.co/R0NDXnc/photo-2022-05-23-03-57-37.jpg
  

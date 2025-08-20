@@ -74,7 +74,7 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/hoaan1995/ZxCDDoS/
+git clone https://github.com/ComPuer/ZxCDDoS/
 cd ZxCDDoS/
 npm i requests
 npm i https-proxy-agent
@@ -118,6 +118,5 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-Telegram: @zxcr9999
-Discord: zxcr9999#1770
+Telegram: @Profitgroww
 ```
